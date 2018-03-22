@@ -1,4 +1,4 @@
-Link for ML crash course
+Link for ML crash course (Google ML)
 https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
 
 
@@ -10,3 +10,7 @@ https://machinelearningmastery.com/gentle-introduction-linear-algebra/
 
 linear-equations
 https://www.khanacademy.org/math/algebra/two-var-linear-equations#solutions-to-two-var-linear-equations
+
+
+ML Project Ideas
+https://github.com/NirantK/awesome-project-ideas
