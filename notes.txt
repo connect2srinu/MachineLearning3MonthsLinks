@@ -17,6 +17,7 @@ https://github.com/NirantK/awesome-project-ideas
 
 Anakonda Setup:
 https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+https://www.youtube.com/watch?v=FbPDXmMj5VI  -Lazyprogrammer
 
 
 Linear algebra 
