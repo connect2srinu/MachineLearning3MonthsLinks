@@ -14,3 +14,12 @@ https://www.khanacademy.org/math/algebra/two-var-linear-equations#solutions-to-t
 
 ML Project Ideas
 https://github.com/NirantK/awesome-project-ideas
+
+Anakonda Setup:
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+
+
+Linear algebra 
+https://www.facebook.com/download/preview/1550983311616099
+https://lookaside.fbsbx.com/file/Introduction%20to%20Linear%20Algebra%20by%20%20G%20Strang.pdf?token=AWxsyJdRYNOeCdTySQnCnVjbPss7xEapWDx1qN1vMaFNwYp_vNnpsb-I2Ira1ryY0XbLNOn5OWSu5mfDqzmKDPgJyiPNeNG6JEXUa9B0u-bsPXSspuOOO1Q0KOgbbD1l_hZFiuB2UVzY2bffcg7yW0XQ
+
