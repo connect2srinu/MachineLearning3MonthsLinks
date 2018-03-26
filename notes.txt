@@ -20,7 +20,9 @@ https://machinelearningmastery.com/setup-python-environment-machine-learning-dee
 https://www.youtube.com/watch?v=FbPDXmMj5VI  -Lazyprogrammer
 
 
-Linear algebra 
+Linear algebra -Gilberb Strang Book 
 https://www.facebook.com/download/preview/1550983311616099
 https://lookaside.fbsbx.com/file/Introduction%20to%20Linear%20Algebra%20by%20%20G%20Strang.pdf?token=AWxsyJdRYNOeCdTySQnCnVjbPss7xEapWDx1qN1vMaFNwYp_vNnpsb-I2Ira1ryY0XbLNOn5OWSu5mfDqzmKDPgJyiPNeNG6JEXUa9B0u-bsPXSspuOOO1Q0KOgbbD1l_hZFiuB2UVzY2bffcg7yW0XQ
 
+Why LinerAlgebra
+https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/
