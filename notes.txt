@@ -26,3 +26,8 @@ https://lookaside.fbsbx.com/file/Introduction%20to%20Linear%20Algebra%20by%20%20
 
 Why LinerAlgebra
 https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/
+
+GitHubs:
+https://github.com/josephmisiti/awesome-machine-learning#python
+https://github.com/prakhar1989/awesome-courses#machine-learning
+
