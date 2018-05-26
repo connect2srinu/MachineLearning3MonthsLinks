@@ -31,3 +31,5 @@ GitHubs:
 https://github.com/josephmisiti/awesome-machine-learning#python
 https://github.com/prakhar1989/awesome-courses#machine-learning
 
+DataScience resume projects
+https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
